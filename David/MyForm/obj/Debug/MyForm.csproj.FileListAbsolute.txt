@@ -1,0 +1,12 @@
+C:\Users\PCES\Desktop\David\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\PCES\Desktop\David\MyForm\bin\Debug\MyForm.exe
+C:\Users\PCES\Desktop\David\MyForm\bin\Debug\MyForm.pdb
+C:\Users\PCES\Desktop\David\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+C:\Users\PCES\Desktop\David\MyForm\obj\Debug\MyForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\PCES\Desktop\David\MyForm\obj\Debug\MyForm.Form1.resources
+C:\Users\PCES\Desktop\David\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\PCES\Desktop\David\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\PCES\Desktop\David\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\PCES\Desktop\David\MyForm\obj\Debug\MyForm.exe
+C:\Users\PCES\Desktop\David\MyForm\obj\Debug\MyForm.pdb
+C:\Users\PCES\Desktop\David\MyForm\obj\Debug\MyForm.Form2.resources

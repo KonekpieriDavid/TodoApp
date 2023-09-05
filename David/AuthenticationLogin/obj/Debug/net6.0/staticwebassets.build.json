@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5mR4e1tTopITwPJPhtzPBb2u2nj/EkbRhd9VT3plTPw=",
+  "Source": "AuthenticationLogin",
+  "BasePath": "_content/AuthenticationLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

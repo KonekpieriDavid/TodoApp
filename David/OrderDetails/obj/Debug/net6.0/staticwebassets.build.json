@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yC2GcODOKDfWASv7DabTCYsT6dXskTEZ+IzyJJmz2Xk=",
+  "Source": "OrderDetails",
+  "BasePath": "_content/OrderDetails",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

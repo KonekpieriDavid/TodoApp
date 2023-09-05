@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PaymentPlatformV2.props" />
+</Project>

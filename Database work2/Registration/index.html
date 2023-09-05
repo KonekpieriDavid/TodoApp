@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lan="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Login & SignUp</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="script.js">
+    </head>
+    <div class ="center">
+        <div class="btns">
+            <a class="a1" href="#">SignUp</a>
+            <a class="a2" href="#">Signin</a>
+        </div>
+        <div class="SignUp form">
+            <div class ="signup_error">please fill in the password </div>
+            <form name ="signup-form" method="POST" onsubmit="return signupvalid() ">
+                <input type="text" name="Fullname" placeholder="Fullname">
+                <input class="=phonenumber" type="tel" name="phonenumber" placeholder="phonenumber">
+                <input class="=Username" name="Username" type="text" placeholder="Username">
+                <input class="=Password" name="password" type="password" placeholder="password">
+                <input class="=email" name="email" type="email" placeholder="Email">
+                <input type="submit" value="login">
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</html>
