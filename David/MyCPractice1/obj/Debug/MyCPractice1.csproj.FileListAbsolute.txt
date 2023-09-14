@@ -1,8 +1,0 @@
-C:\Users\PCES\Desktop\David\MyCPractice1\bin\Debug\MyCPractice1.exe.config
-C:\Users\PCES\Desktop\David\MyCPractice1\bin\Debug\MyCPractice1.exe
-C:\Users\PCES\Desktop\David\MyCPractice1\bin\Debug\MyCPractice1.pdb
-C:\Users\PCES\Desktop\David\MyCPractice1\obj\Debug\MyCPractice1.csproj.AssemblyReference.cache
-C:\Users\PCES\Desktop\David\MyCPractice1\obj\Debug\MyCPractice1.csproj.SuggestedBindingRedirects.cache
-C:\Users\PCES\Desktop\David\MyCPractice1\obj\Debug\MyCPractice1.csproj.CoreCompileInputs.cache
-C:\Users\PCES\Desktop\David\MyCPractice1\obj\Debug\MyCPractice1.exe
-C:\Users\PCES\Desktop\David\MyCPractice1\obj\Debug\MyCPractice1.pdb

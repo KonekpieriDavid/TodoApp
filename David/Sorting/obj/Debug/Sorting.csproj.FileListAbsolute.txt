@@ -1,8 +1,0 @@
-C:\Users\PCES\Desktop\David\Sorting\bin\Debug\Sorting.exe.config
-C:\Users\PCES\Desktop\David\Sorting\bin\Debug\Sorting.exe
-C:\Users\PCES\Desktop\David\Sorting\bin\Debug\Sorting.pdb
-C:\Users\PCES\Desktop\David\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
-C:\Users\PCES\Desktop\David\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
-C:\Users\PCES\Desktop\David\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
-C:\Users\PCES\Desktop\David\Sorting\obj\Debug\Sorting.exe
-C:\Users\PCES\Desktop\David\Sorting\obj\Debug\Sorting.pdb

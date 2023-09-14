@@ -1,7 +1,0 @@
-CREATE TABLE Supplier (
-  SupplierID INT PRIMARY KEY IDENTITY(1,1),
-  SupplierName VARCHAR(255) NOT NULL,
-  ProductSupplied VARCHAR(255) NOT NULL,
-  Quantity INT NOT NULL,
-  Price DECIMAL(10, 2) NOT NULL
-);
